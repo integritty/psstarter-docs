@@ -12,9 +12,13 @@
 <div id="app"></div>
 <script>
     window.$docsify = {
+        el: '#app',
         name: 'PS Starter Theme',
         repo: '',
         loadSidebar: true,
+        alias: {
+            '/.*/_sidebar.md': '/_sidebar.md'
+        },
         search: {
             placeholder: 'Vyhledat',
         }

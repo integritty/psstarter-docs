@@ -2,7 +2,7 @@
   "name": "psstarter-docs",
   "version": "1.0.0",
   "scripts": {
-    "start": "node_modules/.bin/docsify serve docs"
+    "start": "yarn docsify serve docs"
   },
   "dependencies": {
     "docsify": "^4.12.1",
