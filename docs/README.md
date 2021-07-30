@@ -1,6 +1,2 @@
-# Nápověda PrestaShop Starter Theme integritty
-
-## Začínáme
-
-
+# test
 adsfasdfas
