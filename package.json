@@ -1,0 +1,12 @@
+{
+  "name": "psstarter-docs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node_modules/.bin/docsify serve docs"
+  },
+  "dependencies": {
+    "docsify": "^4.12.1",
+    "docsify-cli": "^4.4.3",
+    "docsify-fulltextsearch": "^1.0.6"
+  }
+}
