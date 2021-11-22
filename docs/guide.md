@@ -1,3 +1,3 @@
 # Guide
 
-* Test
+- Odebrat platební brány ze starter theme
